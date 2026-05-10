@@ -1,0 +1,4 @@
+crm_source: "data/sample_crm.csv"
+market_source: "data/sample_market.csv"
+forecast_output: "outputs/forecast_report.xlsx"
+strategy_output: "outputs/strategy_recommendation.txt"
